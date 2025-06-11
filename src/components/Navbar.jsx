@@ -42,7 +42,7 @@ export default function Navbar(props) {
               className="btn btn-primary my-2"
               type="submit"
             >
-              Search
+              Search BUTTON
             </button>
           </form>
         </div>
